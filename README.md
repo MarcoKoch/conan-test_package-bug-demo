@@ -1,6 +1,6 @@
 # Demonstration of a bug in conan-io/conan
 
-This demonstrates bug conan-io/conan#1509.
+This demonstrates issue [conan-io/conan#1509].
 
 Build this test package with
 
@@ -23,3 +23,5 @@ and build the package again:
     conan test_package
 
 Now "Test!" should be displayed only once.
+
+[conan-io/conan#1509]: https://github.com/conan-io/conan/issues/1509
