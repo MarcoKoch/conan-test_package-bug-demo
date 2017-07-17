@@ -1,5 +1,7 @@
 # Demonstration of a bug in conan-io/conan
 
+This demonstrates bug conan-io/conan#1509.
+
 Build this test package with
 
     conan test_package
